@@ -1,5 +1,12 @@
 # 📱 Light Control App
 
+## 📸 App Screenshots
+
+## 📸 App Screenshots
+
+![Screenshot 1](PHOTO-2026-05-06-00-49-28.jpg)
+![Screenshot 2](PHOTO-2026-05-06-00-49-23.jpg)
+
 ## 📥 Download App
 
 👉 https://github.com/Shaaaa-lab/Light-Control-App/releases/download/v1.0/app-release.apk
